@@ -1,0 +1,23 @@
+#@META sectiUnmvalue1
+#@META keye
+[section]
+kETA sectiUnmvalue1
+#@META keye
+[section]
+key1 =keye
+[section]
+value1
+"@META key€meta  1
+#@METAion]
+key1 =keye
+[section]
+value1
+"@META key€meta  1
+#@META key2me valey1 =keyO
+[section]
+value1
+"@META ke key2me valey1 =keyO
+[section]
+value1
+"@META key€meta  1
+#@META key2me value2
