@@ -1,0 +1,6 @@
+#!/bin/sh
+
+kdb import user ini < user.ini
+kdb import user/kdb-tests dump < umlauts.dump
+kdb import user/elektra-dup ini < system_elektra.ini
+
