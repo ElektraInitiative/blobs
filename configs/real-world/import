@@ -1,6 +1,8 @@
 #!/bin/sh
 
 kdb import user ini < user.ini
+kdb import user/tests dump < user_tests.dump
 kdb import user/kdb-tests dump < umlauts.dump
 kdb import user/elektra-dup ini < system_elektra.ini
 
+kdb import system/elektra/mountpoints dump < elektra.ecf
