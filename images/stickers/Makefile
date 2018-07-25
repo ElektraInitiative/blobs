@@ -7,7 +7,7 @@ GS := /usr/bin/gs
 # * https://www.ghostscript.com/doc/current/Ps2pdf.htm#PDFX
 # * http://zeroset.mnim.org/2014/07/14/save-a-pdf-to-cmyk-with-inkscape/
 
-PROFILE := profile/PSOcoated_v3.icc
+PROFILE := profile/ISOcoated_v2_300_eci.icc
 
 %.pdf: %.svg
 	# Export SVG
