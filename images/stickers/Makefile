@@ -3,6 +3,9 @@
 GS := /usr/bin/gs
 
 ## Create a PDF 1.3 out of inkscape PDF
+# Additional Resources:
+# * https://www.ghostscript.com/doc/current/Ps2pdf.htm#PDFX
+# * http://zeroset.mnim.org/2014/07/14/save-a-pdf-to-cmyk-with-inkscape/
 
 %.pdf: %.svg
 	# Export SVG
